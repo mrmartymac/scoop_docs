@@ -1,4 +1,4 @@
-# Installing Scoop 7
+# Installing Scoop 7 
 
 The following is an installation guide for Scoop 7 on a new CentOS 7 Linux server.
 
